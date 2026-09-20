@@ -1,2 +1,2 @@
 # IT3120
-restauran management project
+restaurant management project
